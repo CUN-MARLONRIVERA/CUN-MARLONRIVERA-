@@ -1,4 +1,4 @@
-# CUN-MARLONRIVERA-
+ 
 # Marlon Rivera Lozano
 ---
 ##  Ingenieria De Sistemas/primer semestre 
