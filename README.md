@@ -37,6 +37,7 @@ Servicio Nacional de Aprendizaje (SENA) — Julio de 2019 - Octubre de 2022
 | Nombre | Github|
 | ------ | ------ |
 | Marlon Rivera Lozano | https://github.com/CUN-MARLONRIVERA |
+| Maria del mar Ñustes Estrella | https://github.com/cunmariadelmarnustes |
 |  |  |
 |  | |
 
